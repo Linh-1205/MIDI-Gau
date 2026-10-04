@@ -1,5 +1,5 @@
 document.getElementById("convertButton").addEventListener("click", async () => {
-    console.log("MIDI2LUA-Gau: conversion started");
+    console.log("MIDI2LUA-Gau v2.1 - NO NOTE FILTER");
 
     const fileInput = document.getElementById("midiFile");
     const outputText = document.getElementById("output");
